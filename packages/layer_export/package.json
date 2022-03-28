@@ -1,0 +1,19 @@
+{
+  "name": "layer_export",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/layer_export/open": {
+      "message": "layer_export:open"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "layer_export",
+    "width": 400,
+    "height": 300
+  }
+}
